@@ -1,0 +1,4 @@
+aiogram==3.13.1
+Telethon==1.38.1
+cryptography==44.0.0
+pycryptodome==3.21.0
